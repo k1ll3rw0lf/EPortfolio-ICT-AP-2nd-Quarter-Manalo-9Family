@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Lesson 6
+</title>
+</head>
+<body style="color:#000000; background-color: rgb(255,150,0); font-size:20px;text-align:left;">
+<h1>DIMENSIONS</h1>
+<h2>What I Learned</h2>
+In this lesson, I learned how CSS can be used to set and control the dimensions of HTML elements. Properties such as width, height, max-width, min-width, max-height, and min-height are important for adjusting how big or small an element appears on a web page. I also learned that the visibility property can make elements appear or disappear without changing the overall layout of the page. These properties are very useful for organizing content, creating space, and making a webpage look balanced and well-structured.<br><br>
+
+I also learned about pseudo-classes, which are special states that can change how elements behave or look in response to user actions. For example, in links, there are four main pseudo-classes: link, visited, hover, and active. These determine how a link looks before and after it’s clicked, or when the mouse pointer hovers over it. I discovered that the correct order of writing them is LVHA (Link, Visited, Hover, Active) to make them work properly.<br><br>
+
+Overall, I learned that controlling dimensions and using pseudo-classes help make a webpage  not only look better but also more interactive and user-friendly. These CSS features make websites more organized, dynamic, and enjoyable to use.
+<div style="border: 5px outset rgb(205,100,0); border-width; text-align:center;">
+<a href="SELECTORS.html">
+<button style="background-color:#DDB897;">PREVIOUS LESSON</button>
+</a>
+<a href="../ICT_Lessons.html">
+<button style="background-color:#DDB897;">BACK TO LESSONS</button>
+</a>
+</div>
+</body>
+</html>
