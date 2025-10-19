@@ -26,7 +26,7 @@ p{font-family: Comic Sans MS}
 
 <h1>My Personal Space</h1>
 <img src="Eevee.PNG" alt="Eeve picture" height="200" width="150">
-<img src="Eeveethe2nd.PNG" alt="Another Eevee picture" height="200" width="150" align="right">
+<img src="Eeveethe2nd.png" alt="Another Eevee picture" height="200" width="150" align="right">
 <h2>Personal Details</h2>
 <p>My name is Cedrick Gabriel M. Manalo. I am 14 years old. My birthday is on December 11, and I was born in 2010. Fun fact, my birthday in the MM-DD-YY format is 12-11-10, which is descending order. My favorite food is pretty basic: it's fried chicken. My favorite color is red, which is pretty ironic considering that I was absolutely terrified of blood and injuries when I was younger, though this fear may not have completely disappeared. Moving on, my favorite movie is Pokémon: The Movie I Choose You! It is an amazing movie that really highlights Ash and Pikachu's friendship. My favorite video game is Undertale, an indie game where your choices actually matter.</p>
 <h2>Circle of Friends</h2>
@@ -34,9 +34,10 @@ p{font-family: Comic Sans MS}
 <source src="Birthday.mp4" type="video/mp4">
 </video>
 <p>I am an Introvert, so I don't really like having many friends. Ideally, I would want to be friends with a select group of people. I invite a few of my closest friends for my birthday party, though most of the time I'm with my cousins and close family. I have a lot of fun with my little brother too.</p><br>
-<img src="upstairs.JPEG" alt="Me with my brother" height="400" width="325" align="left">
-<img src="beach.JPEG" alt="Me with my brother on the beach" height="400" width="325" align="right">
+<img src="upstairs.jpeg" alt="Me with my brother" height="400" width="325" align="left">
+<img src="beach.jpeg" alt="Me with my brother on the beach" height="400" width="325" align="right">
 <h2>My family</h2>
 <p>My family is amazing. I stay with my father's side for most of the year, and during Christmas, I visit my mother's side in Quezon. With the number of family members I have, it's no surprise that there are birthdays very often. Our large family is due to our relatives having many siblings, and therefore, I have many cousins. We also have a few common events in our Christmas party, like exchanging gifts and more. One of those parts is basically just a dance performance, where people of the same age dance to compete for a prize. Another part is one of the adults throwing coins, and whoever gets the coin with a mark gets a big prize. For my father's side, our Christmas party is a lot more tame; all of our games have a monetary prize, we have a game where the kids and teenagers grab a bill from a pile, and we get to keep it.</p>
 </body>
+
 </html>
