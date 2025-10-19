@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head><title>ARALIN 4</title></head>
+<body style="background-color:#000000; color: rgb(255,150,0); font-size:20px;">
+<h1>AP-EQUILIBRIUM.</h1>
+Equilibrium<br>
+Kalagayan na walang labis (surplus) sa mamimili at walang kakulangan (shortage) sa nagtitinda.<br><br>
+
+Sa equilibrium, pareho ang quantity demanded at quantity supplied.<br><br>
+
+Diagram / Graph:<br>
+<img src="EQUILIBRIUM2.JPG" width="450" height="450" alt="grapiko na nagpapakita ng equilibrium"><br><br>
+
+Label:<br>
+D = Demand<br>
+S = Supply<br>
+
+Equilibrium Point = Yung lugar kung saan nagtagpo ang <b>Demand</b> at <b>Supply</b><br>
+
+P₁ - S₁ = surplus<br>
+<img src="EQUILIBRIUM.JPG" width="450" height="450" alt="grapiko na nagpapakita ng surplus"><br><br>
+
+P₁ - S₂ = shortage<br>
+<img src="EQUILIBRIUM3.JPG" width="450" height="450" alt="grapiko na nagpapakita ng shortage"><br>
+
+<div style="border: 5px outset rgb(205,100,0); border-width; text-align:center;">
+<a href="ELASTICITY.html">
+<button style="background-color:#DDB897;">NAKARAANG ARALIN</button>
+</a>
+<a href="../AP_Lessons.html">
+<button style="background-color:#DDB897;">BUMALIK SA MGA ARALIN</button>
+</a>
+<a href="PAMILIHAN.html">
+<button style="background-color:#DDB897;">SUNOD NA ARALIN</button>
+</a>
+</div>
+</body>
+</html>

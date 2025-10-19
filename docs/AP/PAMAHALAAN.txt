@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head><title>ARALIN 6</title></head>
+<body style="background-color:#000000; color: rgb(255,150,0); font-size:20px;">
+<h1 style="display:block;">Mga Bahaging Ginagampanan ng Pamahalaan</h1>
+<img src="Gourgeist.PNG" width="250" height="250" alt="gourgeist picture" style="display:inline;">
+<img src="Pamahalaan.PNG" width="250" height="250" alt="picture" style="display:inline;"><br>
+1. Tagapagpatupad ng Batas Pangkabuhayan<br>
+Tinitiyak na nasusunod ang mga batas ukol sa kalakalan, paggawa, at buwis.<br>
+Halimbawa: Pagpapatupad ng minimum wage, anti-trust laws, at consumer protection laws.<br><br>
+
+2. Tagapamahala ng mga Serbisyong Panlipunan<br>
+
+Nagbibigay ng mga serbisyong pampubliko tulad ng edukasyon, kalusugan, pabahay, at transportasyon.<br>
+
+Layunin: Matugunan ang pangangailangan ng mga mamamayan at mabawasan ang kahirapan.<br><br>
+
+3. Tagapag-regulate ng Presyo at Kalakalan<br>
+
+Ipinatutupad ang mga patakarang pang-ekonomiya upang mapanatili ang tamang presyo ng bilihin at maiwasan ang pagsasamantala ng mga negosyante.<br>
+
+Halimbawa: Price control sa pangunahing bilihin (bigas, langis, asukal).<br><br>
+
+4. Tagapagtatag ng mga Korporasyong Pag-aari ng Pamahalaan (GOCCs)<br>
+
+Nagtatatag ng mga Government-Owned and Controlled Corporations (GOCCs) upang magbigay ng serbisyo kung saan kulang ang pribadong sektor.<br>
+Halimbawa:<br>
+
+PAGCOR – pangasiwa sa operasyon ng casino at gaming.<br>
+
+PhilHealth – serbisyong pangkalusugan.<br>
+
+GSIS / SSS – segurong panlipunan.<br><br>
+
+5. Tagapangalaga ng Kapaligiran<br>
+
+Nagpapatupad ng mga batas para sa pangangalaga ng kalikasan at likas-yaman.<br>
+
+Halimbawa: DENR, Clean Air Act, Anti-Plastic Campaigns.<br><br>
+
+6. Tagapag-ayos ng Suliraning Pang-ekonomiya<br>
+
+Tinutugunan ng pamahalaan ang mga problema sa ekonomiya tulad ng kawalan ng trabaho, implasyon, at kakulangan ng suplay.<br>
+
+Halimbawa: Pagbibigay ng ayuda, subsidiya, o mga programang pangkabuhayan.<br><br>
+
+7. Tagapagtaguyod ng Pambansang Kaunlaran<br>
+
+Nagpaplano ng pangmatagalang programa para sa pag-unlad ng bansa.<br>
+Gumagawa ng patakarang piskal (taxes at gastusin) at patakarang pananalapi (interest rate, money supply).<br>
+
+Halimbawa: “Build, Build, Build” program, NEDA development plans.<br><br>
+
+<div style="border: 5px outset rgb(205,100,0); border-width; text-align:center;">
+<a href="PAMILIHAN.html">
+<button style="background-color:#DDB897;">NAKARAANG ARALIN</button>
+</a>
+<a href="../AP_Lessons.html">
+<button style="background-color:#DDB897;">BUMALIK SA MGA ARALIN</button>
+</a>
+</div>
+</body>
+</html>
