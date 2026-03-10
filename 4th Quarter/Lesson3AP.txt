@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Lesson 3, 4th Quarter
+</title>
+</head>
+<body style="color:#000000; background-color: #EEC9A8; font-size:20px;text-align:left;">
+<h1>Industriya</h1>
+<p>Ang <b>industriya</b> ay sektor ng ekonomiya na tumutukoy sa pagproseso ng mga hilaw na materyales upang makagawa ng mga produktong ginagamit ng tao. May apat itong pangunahing sub-sektor: pagmimina, pagmamanupaktura, konstruksyon, at utilities.<br><br>
+
+Mahalaga ang sektor ng industriya dahil lumilikha ito ng trabaho, gumagamit ng makabagong teknolohiya, nagpapasok ng kita sa bansa, at gumagawa ng mga produktong ginagamit sa iba pang industriya. Malaki rin ang ugnayan ng agrikultura at industriya dahil ang agrikultura ang nagbibigay ng hilaw na materyales habang ang industriya naman ang gumagawa ng mga kagamitan na tumutulong sa produksyon ng agrikultura.
+<br><br>
+Gayunpaman, may mga suliranin ang sektor tulad ng kakulangan sa pondo, matinding kompetisyon, paghina ng lokal na industriya, at pagbabago sa demand.
+<br><br>
+Upang mapaunlad ito, nagpatupad ang pamahalaan ng mga patakarang pang-ekonomiya tulad ng Filipino First Policy, Oil Deregulation Law, Microfinancing, at Retail Trade Liberalization Act. Tinutulungan din ng mga ahensya ng pamahalaan tulad ng Department of Trade and Industry (DTI), Board of Investments (BOI), Philippine Economic Zone Authority (PEZA), at Securities and Exchange Commission (SEC) ang pag-unlad ng sektor ng industriya.</p>
+
+<div style="border: 5px outset rgb(205,100,0); border-width; text-align:center;">
+<a href="../AP_Lessons4.html">
+<button style="background-color:#DDB897;">BACK TO LESSONS</button>
+</a>
+</div>
+</body>
+</html> 

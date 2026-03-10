@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Lesson 2, 4th Quarter
+</title>
+</head>
+<body style="color:#000000; background-color: #EEC9A8; font-size:20px;text-align:left;">
+<h1 style="color:#006600;">Agrikultura</h1>
+<p>Ang <b>agrikultura</b> ay agham at sining ng pagpaparami ng mga halaman at hayop na may kaugnayan sa paggamit ng lupa. Kabilang sa mga pangunahing gawain nito ang <b>pagsasaka, pangingisda, paghahayupan, at paggugubat.</b><br><br>
+
+Mahalaga ang sektor ng agrikultura dahil ito ang pinagmumulan ng pagkain, hilaw na materyales para sa industriya, trabaho ng maraming Pilipino, at kita ng bansa. Gayunpaman, nahaharap ito sa mga suliranin tulad ng pagliit ng lupang sakahan, kakulangan sa teknolohiya at pasilidad, polusyon, climate change, peste sa hayop, at pagkaubos ng kagubatan.<br><br>
+
+Upang mapaunlad ang agrikultura, nagpatupad ang pamahalaan ng iba’t ibang batas at programa tulad ng Comprehensive Agrarian Reform Program (CARP) na naglalayong ipamahagi ang lupang agrikultural sa mga magsasakang walang lupa. Mayroon ding mga programang sumusuporta sa pangingisda, pangangalaga ng kagubatan, at kabuhayan ng mga magsasaka.<br><br>
+
+Tumutulong sa sektor na ito ang ilang ahensya ng pamahalaan tulad ng Department of Agriculture (DA), Bureau of Fisheries and Aquatic Resources (BFAR), Bureau of Animal Industry (BAI), at Ecosystem Research and Development Bureau (ERDB) upang mapaunlad ang produksyon at mapangalagaan ang likas na yaman.</p>
+
+<div style="border: 5px outset rgb(205,100,0); border-width; text-align:center;">
+<a href="../AP_Lessons4.html">
+<button style="background-color:#DDB897;">BACK TO LESSONS</button>
+</a>
+</div>
+</body>
+</html> 
