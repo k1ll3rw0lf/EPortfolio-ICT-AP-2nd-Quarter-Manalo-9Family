@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Lesson 5, 4th Quarter
+</title>
+</head>
+<body style="color:#000000; background-color: #EEC9A8; font-size:20px;text-align:left;">
+<h1>Impormal na sektor</h1>
+<p>Ang <b>impormal na sektor</b> ay bahagi ng ekonomiya na walang pormal na rehistro o dokumento sa pamahalaan, kaya ang kita nito ay hindi naisasama sa GDP ng bansa. Kabilang dito ang mga hanapbuhay tulad ng pagtitinda sa kalsada, pedicab driving, karpintero, at iba pang hindi rehistradong trabaho.
+<br><br>
+Mahalaga ang impormal na sektor dahil nagbibigay ito ng kabuhayan sa mga taong walang regular na trabaho at nag-aalok ng murang produkto at serbisyo sa mga mamimili. Maraming tao ang pumapasok dito dahil madali itong simulan, hindi kailangan ng malaking kapital, at nakakaiwas sa komplikadong proseso at buwis ng pamahalaan.
+<br><br>
+Gayunpaman, may mga negatibong epekto ito tulad ng pagbaba ng buwis na nakokolekta ng pamahalaan, panganib sa mga mamimili, at paglaganap ng ilegal na gawain.
+<br><br>
+Upang matulungan ang mga kabilang sa impormal na sektor, may mga batas at programa ang pamahalaan tulad ng Social Reform and Poverty Alleviation Act, Magna Carta of Women, at Social Security Act, pati mga programang DILP, SEA-K, ISLA, Cash-for-Work, at 4Ps na naglalayong magbigay ng kabuhayan, pagsasanay, at tulong pinansyal sa mamamayan.</p>
+
+<div style="border: 5px outset rgb(205,100,0); border-width; text-align:center;">
+<a href="../AP_Lessons4.html">
+<button style="background-color:#DDB897;">BACK TO LESSONS</button>
+</a>
+</div>
+</body>
+</html> 

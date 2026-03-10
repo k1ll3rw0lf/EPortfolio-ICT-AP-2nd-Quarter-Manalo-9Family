@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Lesson 4, 4th Quarter
+</title>
+</head>
+<body style="color:#000000; background-color: #EEC9A8; font-size:20px;text-align:left;">
+<h1>Paglilingkod</h1>
+<p>Ang sektor ng <b>paglilingkod</b> ay tumutulong sa <b>produksyon, distribusyon, kalakalan, at pagkonsumo ng mga produkto sa loob at labas ng bansa</b>. Ito ang ikatlong sektor ng ekonomiya pagkatapos ng agrikultura at industriya.
+<br><br>
+Kabilang sa mga gawain nito ang transportasyon, komunikasyon, kalakalan, pananalapi, real estate, at mga serbisyong pampubliko at pampribado. Mahalaga ang sektor na ito dahil nagbibigay ng trabaho, tumutulong sa paghahatid ng produkto sa mga mamimili, nagpapataas ng GDP, at nagpapasok ng kita sa bansa.
+<br><br>
+Tinutulungan ang sektor ng iba’t ibang ahensya ng pamahalaan tulad ng DOLE, OWWA, POEA, TESDA, PRC, at CHED na nangangalaga sa kapakanan at kasanayan ng mga manggagawa.
+<br><br>
+Mayroon ding mga batas na nagpoprotekta sa karapatan ng manggagawa tulad ng minimum wage, overtime pay, holiday pay, night shift differential, service incentive leave, maternity at paternity leave, at 13th month pay.
+<br><br>
+Sa kabuuan, mahalaga ang sektor ng paglilingkod dahil nagbibigay ito ng serbisyo, trabaho, at kasanayan na tumutulong sa pag-unlad ng ekonomiya ng bansa.</p>
+
+<div style="border: 5px outset rgb(205,100,0); border-width; text-align:center;">
+<a href="../AP_Lessons4.html">
+<button style="background-color:#DDB897;">BACK TO LESSONS</button>
+</a>
+</div>
+</body>
+</html> 

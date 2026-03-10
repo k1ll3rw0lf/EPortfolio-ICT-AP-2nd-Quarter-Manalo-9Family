@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Lesson 2, 3rd Quarter
+</title>
+</head>
+<body style="color:#000000; background-color: #EEC9A8; font-size:20px;text-align:left;">
+<img src="lesson2.png">
+Continuing in typography, we have several more CSS properties, but the one I focused on here is the indent property.
+<div style="border: 5px outset rgb(205,100,0); border-width; text-align:center;">
+<a href="../ICT_Lessons3-4.html">
+<button style="background-color:#DDB897;">BACK TO LESSONS</button>
+</a>
+</div>
+</body>
+</html>
